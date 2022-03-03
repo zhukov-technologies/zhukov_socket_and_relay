@@ -5,7 +5,7 @@
 ![DSC06530](https://user-images.githubusercontent.com/84660518/156652329-725f3acb-2d90-4d71-899d-be960b87dbc5.jpg)
 
 
-ПРИОБРЕСТИ РОЗЕТКУ МОЖНО НА [WILDBERRIES](https://www.wildberries.ru/catalog/66269212/detail.aspx?targetUrl=SN)
+Приобрести розетку можно на [Wildberries](https://www.wildberries.ru/catalog/66337720/detail.aspx?targetUrl=SN)
 
 ## Содержание
 - [Умная розетка и умное реле grib technology](#socket)
@@ -65,14 +65,14 @@ MYEWWT подключается к Интернету через WI-Fi и вза
 
 В прошивке розетки и реле используются библиотеки из проектов с открытым исходным кодом на основании лицензий, закреплёнными за авторами библиотек. Таким образом, работоспособность библиотек не может быть гарантирована. Также нет никаких гарантий, что устройство будет работать с вашей электросетью, и вы не получите ущерба во время эксплуатации устройства.
 
-[Лицензия MIT](https://github.com/zbltrz/MYEWWT/blob/main/LICENSE)
+[Лицензия MIT](https://github.com/zbltrz/grib_smart_socket/blob/main/LICENSE)
 
 <a id="contacts"></a>
 # Контакты
 
 www.grib-tech.ru
 
-ПРИОБРЕСТИ УСТРОЙСТВО МОЖНО НА [WILDBERRIES](https://www.wildberries.ru/catalog/66337720/detail.aspx?targetUrl=SN)
+Приобрести розетку можно на [Wildberries](https://www.wildberries.ru/catalog/66337720/detail.aspx?targetUrl=SN)
 
 [Telegram-канал](t.me/grib_tech) 
 
