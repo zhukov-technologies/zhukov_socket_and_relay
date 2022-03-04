@@ -19,7 +19,7 @@
 <a id="socket"></a>
 # Умная розетка и умное реле grib technology
 
-Розетка и реле управляются с помощью API Telegram. Шлюзом системы является устройство [Miss You Even When We're Together](https://github.com/zbltrz/MYEWWT) (MYEWWT).
+Розетка и реле управляются с помощью API Telegram. Шлюзом системы является устройство [Miss You Even When We're Together](https://github.com/grib-technology/grib_myewwt_clock) (MYEWWT).
 
 MYEWWT взаимодействует c API Telegram, позволяя пользователю отправлять команды и предоставляет на них ответ в Telegram-боте, заренее созданном пользователем. 
 
@@ -35,7 +35,7 @@ MYEWWT подключается к Интернету через WI-Fi и вза
 
 <a id="code"></a>
 # Подробнее о системе и коде
-Здесь и далее находится описание реле и розетки grib technology. Информацию о системе умного дома grib technology, особенностях кода прошивки вы можете найти [здесь](https://github.com/zbltrz/MYEWWT/blob/main/CODE.md).
+Здесь и далее находится описание реле и розетки grib technology. Информацию о системе умного дома grib technology, особенностях кода прошивки вы можете найти [здесь](https://github.com/grib-technology/grib_myewwt_clock/blob/main/ABOUT.md).
 
 <a id="components"></a>
 # Плата и основные компоненты
@@ -65,7 +65,7 @@ MYEWWT подключается к Интернету через WI-Fi и вза
 
 В прошивке розетки и реле используются библиотеки из проектов с открытым исходным кодом на основании лицензий, закреплёнными за авторами библиотек. Таким образом, работоспособность библиотек не может быть гарантирована. Также нет никаких гарантий, что устройство будет работать с вашей электросетью, и вы не получите ущерба во время эксплуатации устройства.
 
-[Лицензия MIT](https://github.com/zbltrz/grib_smart_socket/blob/main/LICENSE)
+[Лицензия GNU General Public License v3.0](https://github.com/grib-technology/grib_socket_and_relay/blob/main/LICENSE.md)
 
 <a id="contacts"></a>
 # Контакты
