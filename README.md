@@ -19,7 +19,7 @@
 <a id="socket"></a>
 # Умная розетка и умное реле grib technology
 
-Розетка и реле управляются с помощью API Telegram. Шлюзом системы является устройство [Miss You Even When We're Together](https://github.com/grib-technology/grib_myewwt_clock) (MYEWWT).
+Розетка и реле управляются с помощью c помощью шлюза — устройства [Miss You Even When We're Together](https://github.com/grib-technology/grib_myewwt_clock) (MYEWWT) а также с помощью [выключателя](https://github.com/grib-technology/grib_switch).
 
 MYEWWT взаимодействует c API Telegram, позволяя пользователю отправлять команды и предоставляет на них ответ в Telegram-боте, заренее созданном пользователем. 
 
