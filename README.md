@@ -4,9 +4,6 @@
 ![DSC06524](https://user-images.githubusercontent.com/84660518/156652191-d5a9511f-c55e-4593-9be8-8c6b3b57945d.jpg)
 ![DSC06530](https://user-images.githubusercontent.com/84660518/156652329-725f3acb-2d90-4d71-899d-be960b87dbc5.jpg)
 
-
-Приобрести розетку можно на [Wildberries](https://www.wildberries.ru/catalog/66337720/detail.aspx?targetUrl=SN)
-
 ## Содержание
 - [Умная розетка и умное реле grib technology](#socket)
 - [Подробнее о системе и коде](#code)
@@ -148,8 +145,6 @@ t_httpUpdate_return ret = ESPhttpUpdate.update(client, "http://www.myserver.ru/s
 # Контакты
 
 www.grib-tech.ru
-
-Приобрести розетку можно на [Wildberries](https://www.wildberries.ru/catalog/66337720/detail.aspx?targetUrl=SN)
 
 [Telegram-канал](t.me/grib_tech) 
 
